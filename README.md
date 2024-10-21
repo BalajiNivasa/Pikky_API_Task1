@@ -3,7 +3,7 @@ Time Interval RESTAPI Implementation
 
 Run Following commands one by one :
 
-git clone https://github.com/naveena2208/task1.git
+git clone https://github.com/BalajiNivasa/Pikky_API_Task1.git
 cd task1
 npm install
 node app.js
